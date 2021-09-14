@@ -3,3 +3,8 @@ Made change in "head1" branch - f1c5635
 Adding another line after the commit# "adfef87" in "head1" branch.
 Making 3rd change after commit# '7247461' in 'head1' branch.
 Final 4th change in 'head1' branch after commit# '0808081'.
+
+Merged branches at commit# '5a5e829'.
+
+First change under 'head2' after commit# '1d881e8'.
+Second change under 'head2' after commit# '544ee95'.
